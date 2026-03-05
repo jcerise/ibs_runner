@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djvvsal5guyt7"
-path="res://.godot/imported/IBS Runner.png-4bbf13552222600e834faa5fa7da67d0.ctex"
+uid="uid://fgi48yps1ikg"
+path="res://.godot/imported/ibs_runner.png-5b381057c580e9ab4740710bb0c3cbae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://IBS Runner.png"
-dest_files=["res://.godot/imported/IBS Runner.png-4bbf13552222600e834faa5fa7da67d0.ctex"]
+source_file="res://dist/ibs_runner.png"
+dest_files=["res://.godot/imported/ibs_runner.png-5b381057c580e9ab4740710bb0c3cbae.ctex"]
 
 [params]
 
