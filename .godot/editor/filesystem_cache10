@@ -1,0 +1,8 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1772683170
+export_presets.cfg::TextFile::-1::1772683170::0::1::::<><><>0<>0<><>::
+IBS Runner.apple-touch-icon.png::CompressedTexture2D::679808180568505421::1772683170::1772683202::1::::<><><>0<>0<>1c420c93f540a11224dc51bdcdc3ed7b<>res://.godot/imported/IBS Runner.apple-touch-icon.png-f266b38dffc1ece9457781d03537e687.ctex::
+IBS Runner.icon.png::CompressedTexture2D::2834349622941786958::1772683170::1772683202::1::::<><><>0<>0<>d2df7962dbcc89558d6057423c0ed229<>res://.godot/imported/IBS Runner.icon.png-294af4b2cffe00f271187eeb9bc0e0c9.ctex::
+IBS Runner.png::CompressedTexture2D::7835620796159977606::1772683170::1772683202::1::::<><><>0<>0<>85c564a1c38e8dbca28f697959a95996<>res://.godot/imported/IBS Runner.png-4bbf13552222600e834faa5fa7da67d0.ctex::
+main.gd::GDScript::758665993404305580::1772682193::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene::-1::1772682193::0::1::::<><><>0<>0<><>::res://main.gd
